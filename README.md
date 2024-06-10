@@ -2,3 +2,4 @@
 Primeira versão de um sistema bancário em python. Testando comandos GIT.
 ## Gravando mudanças no repositório.
 *comando git push add
+*testando pull
