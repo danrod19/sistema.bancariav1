@@ -5,4 +5,4 @@ Primeira versão de um sistema bancário em python. Testando comandos GIT.
 
 *testando pull
 
-*comando git fatch
+*comando git fetch
